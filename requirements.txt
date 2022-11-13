@@ -1,0 +1,6 @@
+eng-to-ipa==0.0.2
+moviepy
+click
+Pillow==9.1.1
+ffmpeg
+wave
