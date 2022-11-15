@@ -4,3 +4,11 @@ click
 Pillow==9.1.1
 ffmpeg
 wave
+opencv-python
+pydub
+SpeechRecognition
+# pyqt-tools
+# PyQt5
+
+# sudo apt-get install libgtk2.0-dev pkg-config
+# sudo apt install ffmpeg
